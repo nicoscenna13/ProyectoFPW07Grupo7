@@ -1,0 +1,45 @@
+[
+    {
+        "key" : "lion",
+        "name" : "Lion",
+        "sp-name": "Leon",
+        "img" : "./public/img/lion.png",
+        "status" : true
+
+    },
+    {
+        "key" : "zebra",
+        "name" : "Zebra",
+        "sp-name" : "Cebra",
+        "img" : "./public/img/zebra.png",
+        "status" : true
+    },
+    {
+        "key" : "girafe",
+        "name" : "Girafe",
+        "sp-name" : "Jirafa",
+        "img" : "./public/img/girafe.png",
+        "status" : true
+    },
+    {
+        "key" : "dog",
+        "name" : "Dog",
+        "sp-name" : "Perro",
+        "img" : "./public/img/dog.png",
+        "status" : true
+    },
+    {
+        "key" : "cow",
+        "name" : "Cow",
+        "sp-name" : "Vaca",
+        "img" : "./public/img/cow.png",
+        "status" : true
+    },
+    {
+        "key" : "cat",
+        "name" : "Cat",
+        "sp-name" : "Gato",
+        "img" : "./public/img/cat.png",
+        "status" : true
+    }
+]
